@@ -66,4 +66,7 @@ Advanced S3 Bucket Features
 S3 Storage Classes
 
 S3 offers multiple storage classes, each designed for different use cases and performance requirements:
+![image](https://github.com/user-attachments/assets/57f867b5-9291-436e-821d-c5e7f05f4ae1)
+
+
 
