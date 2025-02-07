@@ -1,4 +1,4 @@
-AWS Lambda Deep Dive for Beginners
+**__AWS Lambda Deep Dive for Beginners**__
 Introduction to Serverless Computing
 Today, we're going to embark on an exciting journey into the world of serverless computing and explore AWS Lambda, a powerful service offered by Amazon Web Services.
 
